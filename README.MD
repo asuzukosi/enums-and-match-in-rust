@@ -1,0 +1,1 @@
+This is a project that is used for testing out ideas relating to enums and the match keyword in rust
